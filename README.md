@@ -11,8 +11,8 @@ Instalación:
 
 Clonar el repositorio con los siguientes comandos a ejecutar en la cdm:
 
-1- cd Escritorio // Dirección donde guardar el repositorio
-2- git clone https://github.com/GasparNavarro/Tarea-N-1-Algoritmos-y-Complejidad/tree/79da12554d5d06c18e922f70d93e01b6baf95de6
+1. cd Escritorio // Dirección donde guardar el repositorio
+2. git clone https://github.com/GasparNavarro/Tarea-N-1-Algoritmos-y-Complejidad/tree/79da12554d5d06c18e922f70d93e01b6baf95de6
 
 Uso:
 
