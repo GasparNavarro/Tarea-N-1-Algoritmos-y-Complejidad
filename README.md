@@ -12,16 +12,27 @@ Instalación:
 Clonar el repositorio con los siguientes comandos a ejecutar en la cdm:
 
 1- cd Escritorio // Dirección donde guardar el repositorio
-2- git clone https://github.com/tu-usuario/mi-proyecto-increible.git
-
+2- git clone https://github.com/GasparNavarro/Tarea-N-1-Algoritmos-y-Complejidad/tree/79da12554d5d06c18e922f70d93e01b6baf95de6
 
 Uso:
-Ejecución: Cómo ejecutar el código principal.
-Argumentos: Si el código acepta argumentos de línea de comandos, cómo usarlos.
-Ejemplos: Ejemplos de cómo usar el código.
-Estructura del código:
-Archivos principales: Una breve descripción de los archivos más importantes.
-Funciones: Una descripción de las funciones más relevantes y sus parámetros.
-Contribuciones:
-Cómo contribuir: Si quieres que otros contribuyan al proyecto, cómo hacerlo.
-Licencia: La licencia bajo la cual se distribuye el código.
+
+- Cada uno de los archivos de algoritmos con extensión .cpp debe ejecutarse.
+- Es importante recalcar, que el cambio al tipo de archivo a procesar por el algoritmo es manual,
+  es decir, se debe modificar la siguiente parte de cada codigo, y solo cambia el nombre del
+  archivo a procesar, de igual manera, estas indicaciones vienen incluidas en el codigo y sus respectivos
+  comentarios. A continuacion, un ejemplo:
+
+  //Vector para arreglos, ordenado, desordenado y semidesordenado
+    std::vector<std::string> archivos = {
+        "array_ordenado_10^2.txt",
+        "array_semiordenado_10^2.txt",
+        "array_desordenado_10^2.txt"
+    };
+
+    // se sigue el siguiente formato para traer .txt con datos, donde solo cambia el 10^n por nombre,
+    // con n = 2,4,6 respectivamente. Para cada caso de prueba se modifica solo el nombre, tal de no 
+    // tener que hacer más codigo adicional.
+
+    //"array_ordenado_10^6.txt",
+    //"array_semiordenado_10^6.txt",
+    //"array_desordenado_10^6.txt"
