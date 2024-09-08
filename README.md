@@ -22,17 +22,5 @@ Uso:
   archivo a procesar, de igual manera, estas indicaciones vienen incluidas en el codigo y sus respectivos
   comentarios. A continuacion, un ejemplo:
 
-  //Vector para arreglos, ordenado, desordenado y semidesordenado \n
-    std::vector<std::string> archivos = {                          \n
-        "array_ordenado_10^2.txt",                                  \n
-        "array_semiordenado_10^2.txt",                               \n
-        "array_desordenado_10^2.txt"                                  \n
-    };
-
-    // se sigue el siguiente formato para traer .txt con datos, donde solo cambia el 10^n por nombre,  \n
-    // con n = 2,4,6 respectivamente. Para cada caso de prueba se modifica solo el nombre, tal de no    \n
-    // tener que hacer más codigo adicional.                                                              \n
-
-    //"array_ordenado_10^6.txt",                    \n
-    //"array_semiordenado_10^6.txt",                 \n
-    //"array_desordenado_10^6.txt"                   \n
+![image](https://github.com/user-attachments/assets/e41fe276-5d23-4bb4-a39d-4ad7c22a52ed)
+               
